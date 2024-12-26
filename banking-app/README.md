@@ -112,14 +112,14 @@ Framework: Spring Boot
 Libraries:
 Spring Web
 Spring Data JPA
-H2 Database
+MySql Database
 Lombok
 
 #### Database
 
-Type: In-Memory Database
-Tool: H2
-Console URL: http://localhost:8080/h2-console
+Type: MySQl
+Tool: Sql
+Console URL: http://localhost:8080/MySql-console
 
 #### Build Tool
 Maven
