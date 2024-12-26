@@ -7,7 +7,8 @@ It provides RESTful APIs for managing bank accounts, including operations
 such as creating accounts, depositing money, withdrawing money, 
 retrieving account details, and deleting accounts.
 
-## GitHub Repository
+## GitHub Repository:
+https://github.com/Sesa-ja/OOP-Final-Project-Baking-App.git
 
 ## **REST API Documentation**
 The REST APIs are documented using Swagger. You can access the Swagger UI to explore 
